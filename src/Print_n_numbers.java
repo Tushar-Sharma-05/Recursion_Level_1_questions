@@ -4,7 +4,6 @@ public class Print_n_numbers {
 
 //        print(5);
         printRev(5);
-        print(5);
     }
 
     static void print(int n){
